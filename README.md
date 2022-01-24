@@ -1,2 +1,2 @@
 # WebXR
-WebXR Unity Adventure Ddemo
+WebXR Unity Adventure Demo
